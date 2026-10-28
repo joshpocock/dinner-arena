@@ -1,0 +1,11 @@
+{
+  "occasion": "Tuesday dinner, four friends",
+  "vibe": ["casual", "loud"],
+  "recent": ["pizza", "burgers"],
+  "people": [
+    {"name": "Alex", "max_price": 3, "needs": [], "cravings": ["thai", "noodles"], "favorites": ["ramen"], "vetoes": []},
+    {"name": "Sam", "max_price": 2, "needs": ["vegetarian"], "cravings": ["indian"], "favorites": ["thai"], "vetoes": ["sushi"]},
+    {"name": "Priya", "max_price": 3, "needs": [], "allergies": [{"item": "nut-free", "severe": false}], "cravings": ["mexican", "thai"], "favorites": ["indian"], "vetoes": []},
+    {"name": "Theo", "max_price": 2, "needs": [], "cravings": ["burgers"], "favorites": ["mexican", "pizza"], "vetoes": []}
+  ]
+}

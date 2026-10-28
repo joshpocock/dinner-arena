@@ -1,0 +1,13 @@
+[
+  {"name": "EXAMPLE Lotus Thai Kitchen", "cuisine": ["thai", "noodles"], "price": 2, "rating": 4.5, "reviews": 812, "distance_km": 1.2, "open_now": true, "wait_min": 15, "diet": ["vegetarian", "vegan"], "unsafe_for": [], "vibe": ["casual"]},
+  {"name": "EXAMPLE Masala Street", "cuisine": ["indian"], "price": 2, "rating": 4.6, "reviews": 430, "distance_km": 2.8, "open_now": true, "wait_min": 25, "diet": ["vegetarian", "vegan", "nut-free"], "unsafe_for": [], "vibe": ["casual", "loud"]},
+  {"name": "EXAMPLE Taqueria Norte", "cuisine": ["mexican"], "price": 1, "rating": 4.4, "reviews": 1290, "distance_km": 0.6, "open_now": true, "wait_min": 10, "diet": ["vegetarian", "nut-free"], "unsafe_for": [], "vibe": ["casual", "loud"]},
+  {"name": "EXAMPLE Ember Steakhouse", "cuisine": ["steak"], "price": 4, "rating": 4.7, "reviews": 650, "distance_km": 3.5, "open_now": true, "wait_min": 45, "diet": [], "unsafe_for": [], "vibe": ["fancy"]},
+  {"name": "EXAMPLE Ramen Club", "cuisine": ["ramen", "noodles", "japanese"], "price": 2, "rating": 4.3, "reviews": 2100, "distance_km": 1.9, "open_now": true, "wait_min": 35, "diet": ["vegetarian"], "unsafe_for": [], "vibe": ["loud"]},
+  {"name": "EXAMPLE Sushi Wave", "cuisine": ["sushi", "japanese"], "price": 3, "rating": 4.8, "reviews": 300, "distance_km": 1.0, "open_now": true, "wait_min": 20, "diet": ["vegetarian"], "unsafe_for": [], "vibe": ["quiet"]},
+  {"name": "EXAMPLE Satay House", "cuisine": ["malaysian", "thai"], "price": 2, "rating": 4.2, "reviews": 210, "distance_km": 2.2, "open_now": true, "wait_min": 10, "diet": ["vegetarian"], "unsafe_for": ["nut-free"], "vibe": ["casual"]},
+  {"name": "EXAMPLE Smash Burger Co", "cuisine": ["burgers"], "price": 1, "rating": 4.1, "reviews": 980, "distance_km": 0.9, "open_now": true, "wait_min": 5, "diet": ["vegetarian"], "unsafe_for": [], "vibe": ["casual", "loud"]},
+  {"name": "EXAMPLE Verde Bowls", "cuisine": ["salad", "bowls"], "price": 2, "rating": 4.0, "reviews": 150, "distance_km": 1.5, "open_now": true, "wait_min": 5, "diet": ["vegetarian", "vegan", "nut-free"], "unsafe_for": [], "vibe": ["quiet"]},
+  {"name": "EXAMPLE Nonna's Pizza", "cuisine": ["pizza", "italian"], "price": 2, "rating": 4.5, "reviews": 1500, "distance_km": 0.4, "open_now": false, "wait_min": 15, "diet": ["vegetarian"], "unsafe_for": [], "vibe": ["casual", "loud"]},
+  {"name": "EXAMPLE Pho Saigon", "cuisine": ["vietnamese", "noodles"], "price": 1, "rating": 4.4, "reviews": 760, "distance_km": 2.5, "open_now": true, "wait_min": 10, "diet": ["vegetarian"], "unsafe_for": [], "vibe": ["casual"]}
+]
